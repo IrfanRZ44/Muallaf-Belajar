@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/customdialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:padding="10dp"
+    android:layout_margin="@dimen/margin_standard"
+    android:background="@drawable/border_rl_putih"
+    android:elevation="@dimen/ele4"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_doa"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/hitam"
+        android:textSize="@dimen/title_font"
+        android:layout_marginLeft="@dimen/margin_big"
+        android:layout_marginTop="@dimen/margin_small"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_centerHorizontal="true"
+        android:text="Title"
+        android:layout_below="@+id/img_doa"
+        />
+    <Button
+        android:id="@+id/dialogdismiss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATAL"
+        android:layout_below="@+id/title"
+        android:background="@drawable/border_btn_login"
+        android:layout_marginTop="@dimen/margin_standard"
+        />
+
+</RelativeLayout>

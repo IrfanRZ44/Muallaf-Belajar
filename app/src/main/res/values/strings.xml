@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Muallaf Belajar</string>
+    <string name="content_beranda">Muallaf Belajar adalah aplikasi yang ditujukan bagi muallaf untuk mempelajari dasar-dasar pendidikan islam</string>
+    <string name="keimanan1">1. Iman Kepada Allah</string>
+    <string name="keimanan2">2. Iman Kepada Malaikat</string>
+    <string name="keimanan3">3. Iman Kepada Nabi dan Rasul</string>
+    <string name="keimanan4">4. Iman Kepada Kitab Allah</string>
+    <string name="keimanan5">5. Iman Kepada Hari Akhir</string>
+    <string name="keimanan6">6. Iman Kepada Qada dan Qadar</string>
+
+    <string name="ct_iman1">Allah Maha Esa</string>
+    <string name="ct_iman2">Allah tidak beranak dan tidak diperanakkan</string>
+    <string name="ct_iman3">Allah tidak ada sesuatu yang menyerupai-Nya</string>
+
+    <string name="ct_iman4">Makhluk Allah yang diciptakan dari cahaya</string>
+    <string name="ct_iman5">Penjaga langit dan bumi</string>
+    <string name="ct_iman6">Perantara bagi umat manusia</string>
+
+    <string name="ct_iman7">Utusan Allah</string>
+    <string name="ct_iman8">Pembawa Wahyu Allah</string>
+    <string name="ct_iman9">Teladan bagi Manusia</string>
+
+    <string name="ct_iman10">Firman atau Kalam Allah</string>
+    <string name="ct_iman11">Petunjuk bagi umat Manusia</string>
+    <string name="ct_iman12">Pembeda yang hak dan batil</string>
+    <string name="ct_iman13">Penjelas atas segala urusan kehidupan</string>
+
+    <string name="ct_iman14">Hari perhitungan</string>
+    <string name="ct_iman15">Hari pembalasan</string>
+    <string name="ct_iman16">Kehidupan yang kekal abadi</string>
+
+    <string name="ct_iman17">Ketentuan hidup dan mati</string>
+    <string name="ct_iman18">Hidup yang bahagia dan sengsara</string>
+    <string name="ct_iman19">Perjalanan yang selamat dan perjalanan yang sesat</string>
+
+    <string name="keislaman1">1. Mengucapkan dua kalimat syahadat</string>
+    <string name="keislaman2">2. Mendirikan Shalat</string>
+    <string name="keislaman3">3. Menunaikan zakat fitrah dan zakat harta</string>
+    <string name="keislaman4">4. Berpuasa di bulan Ramadhan</string>
+    <string name="keislaman5">5. Menunaikan Haji</string>
+
+    <string name="ct_islam1">Wajib baru masuk Islam</string>
+    <string name="ct_islam2">Wajib di waktu shalat</string>
+    <string name="ct_islam3">Wajib di waktu nikah</string>
+
+    <string name="ct_islam4">Wajib shalat lima waktu</string>
+    <string name="ct_islam5">Wajib bagi laki-laki shalat hari jumat</string>
+    <string name="ct_islam6">Wajib kifayah shalat jenazah</string>
+    <string name="ct_islam7">Sunnah muakkad shalat dua hari raya</string>
+
+    <string name="ct_islam8">Zakat fitrah wajib bagi laki-laki dan perempuan di bulan Ramadhan</string>
+    <string name="ct_islam9">Zakat harta wajib bagi mereka yang mampu dan memenuhi ukuran serta mencapai waktu</string>
+
+    <string name="ct_islam10">Wajib bagi muslim yang sudah baligh</string>
+
+    <string name="ct_islam11">Wajib bagi yang mampu</string>
+
+    <string name="bersuci1">1. Alat Bersuci</string>
+    <string name="bersuci2">2. Alasan Bersuci</string>
+
+    <string name="ct_suci1">Air mutlak adalah air yang suci dan dapat mensucikan (Air hujan, air salju, air es, aiar sumur, air laut)</string>
+    <string name="ct_suci2">Air musta’mal adalah air terpakai yang telah terpisah dari anggota orang mandi atau berwudhu</string>
+    <string name="ct_suci3">Air yang bercampur dengan barang yang suci dan tidak berubah warna, rasa dan bau maka tetap menjadi air mutlak</string>
+    <string name="ct_suci4">Air bersih yang tidak mensucikan (Air kelapa, air teh, dan sejenisnya)</string>
+
+    <string name="ct_suci5">Wajib Mandi (Bergaul suami istri, Mukallaf yang mengelurkan cairan dari alat khitan karena mimpi, sehabis datang bulan, setelah melahirkan)</string>
+    <string name="ct_suci6">Wajib Wudhu (hendak melaksanakan shalat)</string>
+
+    <string name="shalat1">1. Syarat Shalat</string>
+    <string name="shalat2">2. Wajib Shalat</string>
+
+    <string name="ct_shalat1">a. Masuk waktu Shalat</string>
+    <string name="ct_shalat2">b. Suci dari hadats besar dan kecil</string>
+    <string name="ct_shalat3">c. Suci pakaian dan tempat</string>
+    <string name="ct_shalat4">d. Tutup aurat</string>
+    <string name="ct_shalat5">e. Menghadap kiblat</string>
+
+    <string name="ct_shalat6">a. Niat</string>
+    <string name="ct_shalat7">b. Takbiratul Ihram</string>
+    <string name="ct_shalat8">c. Berdiri pada shalat wajib</string>
+    <string name="ct_shalat9">d. Baca Al-Fatihah</string>
+    <string name="ct_shalat10">e. Ruku</string>
+    <string name="ct_shalat11">f. Itidal (Bangkit dari ruku)</string>
+    <string name="ct_shalat12">g. Sujud</string>
+    <string name="ct_shalat13">h. Duduk tasyahud awal</string>
+    <string name="ct_shalat14">i. Sujud</string>
+    <string name="ct_shalat15">j. Duduk tasyahud akhir</string>
+
+    <string name="zakat1">1. Syarat Harta Zakat</string>
+    <string name="zakat2">2. Jenis Harta yang Dizakati</string>
+
+    <string name="ct_zakat1">Menurut hukum dibenarkan atau diawajibkan atasnya zakat</string>
+    <string name="ct_zakat2">Status harta milik sendiri</string>
+    <string name="ct_zakat3">Mencapai ukuran dan telah cukup waktu satu tahun</string>
+    <string name="ct_zakat4">Harta yang berkembang</string>
+
+    <string name="ct_zakat5">Hasil dagang atau perniagaan, investasi yang halal, dan usaha lainnya yang dibenarkan syarat</string>
+    <string name="ct_zakat6">Hasil pertanian, peternakan, industri, dan pertambangan</string>
+    <string name="ct_zakat7">Hasil profesi dan jasa keahlian atau keterampilan</string>
+
+    <string name="puasa1">1. Syarat puasa</string>
+    <string name="puasa2">2. Wajib puasa</string>
+
+    <string name="ct_puasa1">a. Masuk Waktu</string>
+    <string name="ct_puasa2">b. Baligh</string>
+    <string name="ct_puasa3">c. Berakal</string>
+
+    <string name="ct_puasa4">a. Niat</string>
+    <string name="ct_puasa5">b. Menahan(makan, minum, bergaul suami-istri)</string>
+    <string name="ct_puasa6">c. Mulai terbit fajar sampai terbenam matahari</string>
+
+    <string name="haji1">1. Syarat-syarat haji</string>
+    <string name="haji2">2. Rukun-rukun haji</string>
+    <string name="haji3">2. Larangan-larangan haji</string>
+
+    <string name="ct_haji1">a. Beragaman Islam</string>
+    <string name="ct_haji2">b. Berakal sehat</string>
+    <string name="ct_haji3">c. Baligh atau dewasa</string>
+    <string name="ct_haji4">d. Merdeka (bukan budak)</string>
+    <string name="ct_haji5">e. Kuasa atau mampu untuk melakukannya</string>
+
+    <string name="ct_haji6">a. Ihram</string>
+    <string name="ct_haji7">b. Wukuf di pada arafah</string>
+    <string name="ct_haji8">c. Tawaf</string>
+    <string name="ct_haji9">d. Sai</string>
+    <string name="ct_haji10">e. Menggunting atau mencukur rambut</string>
+    <string name="ct_haji11">f. Tertib</string>
+
+    <string name="ct_haji12">a. Bagi laki-laki : dilarang memakai pakaian yang berjahit, memakai tutup kepala, dan memakai atas kaki yang menutupi mata kai</string>
+    <string name="ct_haji13">b. Bagi perempuan : Perempuan dilarang menutup muka dan kedua telapak tangan</string>
+    <string name="ct_haji14">c. Memakai wangi-wangian, kecuali yang dipakai sebelum niat </string>
+    <string name="ct_haji15">d. Memotong rambut atau bulu badan yang lainnya</string>
+    <string name="ct_haji16">e. Memotong kuku</string>
+    <string name="ct_haji17">f. Mengadakan akad nikah</string>
+    <string name="ct_haji18">f. Memburu dan membunuh binatang yang ada di tanah suci</string>
+    <string name="ct_haji19">f. Bersetubuh dan pendahuluannya</string>
+
+
+</resources>

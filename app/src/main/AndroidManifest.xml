@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exomatik.irfanrz.muallafbelajar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/mpm"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mpm"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.BimbinganKeimanan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.BimbinganKeislaman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.BimbinganIbadah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.Ibadah.Bersuci"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.Ibadah.Shalat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.Ibadah.Zakat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.Ibadah.Puasa"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Content.Ibadah.Haji"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Content.DoaSehari"></activity>
+    </application>
+
+</manifest>
